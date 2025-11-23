@@ -18,7 +18,7 @@ We are currently:
 ## Documentation
 
 - [General Questions](GENERAL_QUESTIONS.md) - Key discussion points and considerations for the project
-- [User Story: Simple User Account Creation](../../issues/1) - First feature requirement
+- [User Story: Simple User Account Creation](#1) - First feature requirement
 
 ## Contributing
 
